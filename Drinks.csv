@@ -1,0 +1,16 @@
+,Drink_Name,Quantity,continent
+0,beer_servings,1630,AS
+1,spirit_servings,2677,AS
+2,wine_servings,399,AS
+3,beer_servings,8720,EU
+4,spirit_servings,5965,EU
+5,wine_servings,6400,EU
+6,beer_servings,3258,AF
+7,spirit_servings,866,AF
+8,wine_servings,862,AF
+12,beer_servings,2101,SA
+13,spirit_servings,1377,SA
+14,wine_servings,749,SA
+15,beer_servings,1435,OC
+16,spirit_servings,935,OC
+17,wine_servings,570,OC
